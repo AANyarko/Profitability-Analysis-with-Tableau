@@ -1,4 +1,4 @@
-I leveraged on Tableau software to provide a comprehensive overview of the African Mobile's performance across key metrics. This interactive dashboard presents crucial insights on Profit by City, Profit by Segment, and Profit Trend over the past four years of the company's operations. 
+I leveraged on Tableau software to provide a comprehensive overview of the African Mobile's performance across key metrics. This interactive dashboard presents crucial insights on Profit by City, Profit by Segment, and Profit Trend over the past four years of a company's operations. 
 
 The map on the dashboard displays Profit by City, allowing stakeholders to visually assess the contribution of each city to the overall profitability. Each city is represented by a marker, with the size of the marker corresponding to the magnitude of profit. Hovering over a city marker reveals detailed information, including the exact profit amount. 
 
